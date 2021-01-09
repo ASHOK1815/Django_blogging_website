@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock title %}
+{% block homeactive %}active{% endblock homeactive %}
+{% block body %}
+
+<div class="container my-5">
+    <div class="jumbotron">
+      <h1>Welcome to Ashok Blog</h1>
+      <p>The first thing you learn when you're blogging is that people are one click away from leaving you.
+        So you’ve got to get to the point, you can’t waste people’s time, you’ve got to give them some value 
+        for their limited attention span.
+      </p>
+    </div>
+  
+    
+  </div>
+
+
+
+  <div class="container">
+    <div class="card text-center">
+        <div class="card-header">
+          Featured
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">~Ashok</h5>
+          <p class="card-text">Every time you post something online, you have a choice. You can either make it something 
+              that adds to the happiness levels in the world—or you can make it something that takes away</p>
+          <a class="btn btn-primary" href="/blog" role="button">Go to Blog</a>
+        </div>
+        <div class="card-footer text-muted">
+          2 days ago
+        </div>
+      </div>
+  </div>
+
+{% endblock body %}

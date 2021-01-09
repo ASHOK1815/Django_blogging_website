@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Blog-Post{% endblock title %}
+{% block body %}
+
+
+<div class="container">
+
+    <div class="blog-post" style="color:wheat">
+        <h2 class="blog-post-title">Title:--{{post.title}}</h2>
+        <p class="blog-post-meta">Time:-{{post.timestamp}} by <a href="#">{{post.author}}</a></p>
+
+        <p>{{post.content}}</p>
+        
+      </div>
+</div>
+
+
+
+
+
+{% endblock body %}
