@@ -7,8 +7,8 @@ This site  you can blog and login and logout
 
 
 
-![snap](snap/blog1.jpg)
+![snap](snap/blog1.png)
 # pic1
-![snap](snap/blog2.jpg)
-![snap](snap/blog3.jpg)
+![snap](snap/blog2.png)
+![snap](snap/blog3.png)
 
