@@ -35,7 +35,7 @@ INSTALLED_APPS = [
 
     'home.apps.HomeConfig',
     'blog.apps.BlogConfig',
-
+    'django.contrib.humanize',
 
     'django.contrib.admin',
     'django.contrib.auth',
