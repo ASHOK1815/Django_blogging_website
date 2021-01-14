@@ -2,13 +2,11 @@
 This site  you can blog and login and logout
 
 
-# Cusm App stand for chandigarh university study material App
 
 
-
-
+#Main page pic------------
 ![snap](snap/blog1.png)
-# pic1
+# Login Page------------
 ![snap](snap/blog2.png)
 ![snap](snap/blog3.png)
 
